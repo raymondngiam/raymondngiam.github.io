@@ -15,7 +15,7 @@ Profile page for Raymond Ngiam https://raymondngiam.github.io/
 ---
 ### Support my works
 
-If these projects saved you time, helped you learn something new, or just made your day a little easier — consider buying me a coffee. Your support helps me keep building, documenting, and sharing works like this with the community.
+If these projects saved you time, helped you learn something new, or just made your day a little easier — consider buying me a coffee. Your support helps me keep building, documenting, and sharing works like these with the community.
 
 <a href="https://github.com/sponsors/raymondngiam?frequency=one-time&sponsor=raymondngiam" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%9D%A4-orange?logo=githubsponsors&style=flat-square" alt="Sponsor me on GitHub" />
