@@ -11,6 +11,7 @@ Profile page for Raymond Ngiam https://raymondngiam.github.io/
 ![](images/lbfgs.gif)|**Iterative Closest Point with Nonlinear Least Squares** [[link]](https://raymondngiam.github.io//icp-with-nonlinear-least-squares)<br>- Implements ICP algorithm with SE3 manifold based optimization with ceres-solver, and Sophus library in C++.
 ![](images/disparity.png)|**Total variation regularized Stereo Disparity in OpenCV** [[link]](https://raymondngiam.github.io/tv-regularized-stereo-disparity-in-opencv)<br>-	Implements edge preserving dense stereo disparity computation with OpenCV in C++.
 ![](images/AdvancedLaneFinding.jpg)|**Self Driving Car Related Projects** [[link]](https://raymondngiam.github.io/CarND-Projects/)<br>- Behavioral cloning, lane detection, localization, model predictive control, path planning, and ROS integration.
+![](images/opticstudio.png)|**OpticStudio Related Projects** [[link]](https://raymondngiam.github.io/OpticalEngineeringProjects)<br>- Singlet lens design, best form singlet optimization, and achromatic doublet design.
 
 ---
 ### Support my works
